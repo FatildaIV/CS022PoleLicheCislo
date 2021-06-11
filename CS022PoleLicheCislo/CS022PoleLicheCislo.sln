@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS022PoleLicheCislo", "CS022PoleLicheCislo\CS022PoleLicheCislo.csproj", "{AC8AF5FA-A310-4F36-ACD2-A257D902284D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8AF5FA-A310-4F36-ACD2-A257D902284D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8AF5FA-A310-4F36-ACD2-A257D902284D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8AF5FA-A310-4F36-ACD2-A257D902284D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8AF5FA-A310-4F36-ACD2-A257D902284D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B566E9D-44F4-403E-A982-411E8767C2A2}
+	EndGlobalSection
+EndGlobal
